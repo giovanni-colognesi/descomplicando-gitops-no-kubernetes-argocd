@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="448475a5-423d-43e4-bbce-3fd9cef7640a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/giropops-senhas/helm/values.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/giropops-senhas/helm/values.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-of-apps/giropops-app.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-of-apps/randomlogger-app.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/giropops-senhas.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/applications/giropops-senhas.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +56,7 @@
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/Users/giovannicolognesi",
+    "last_opened_file_path": "/Users/giovannicolognesi/GolandProjects/descomplicando-gitops-no-kubernetes-argocd/app-of-apps",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",

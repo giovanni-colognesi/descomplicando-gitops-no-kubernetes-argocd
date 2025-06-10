@@ -6,7 +6,6 @@ metadata:
 spec:
   project: default
   source:
-    helm: {}
     repoURL: 'https://github.com/giovanni-colognesi/descomplicando-gitops-no-kubernetes-argocd.git'
     targetRevision: main
     path: giropops-senhas/helm
@@ -17,4 +16,4 @@ spec:
     automated:
       selfHeal: true
     syncOptions:
-    - CreateNamespace=true
+      - CreateNamespace=true
