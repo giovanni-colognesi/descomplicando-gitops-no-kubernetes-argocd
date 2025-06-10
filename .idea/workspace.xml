@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="448475a5-423d-43e4-bbce-3fd9cef7640a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app-of-apps/templates/giropops-app.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/app-of-apps/templates/giropops-app.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/app-of-apps.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/applications/app-of-apps.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
