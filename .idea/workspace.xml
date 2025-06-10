@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="448475a5-423d-43e4-bbce-3fd9cef7640a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app-of-apps/giropops-app.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app-of-apps/randomlogger-app.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-of-apps/values.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applications/app-of-apps.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/giropops-senhas.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/applications/giropops-senhas.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-of-apps/giropops-app.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/app-of-apps/templates/giropops-app.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-of-apps/randomlogger-app.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/app-of-apps/templates/randomlogger-app.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +33,16 @@
   }
 }</component>
   <component name="KubernetesApiPersistence">{}</component>
-  <component name="KubernetesApiProvider">{
-  &quot;isMigrated&quot;: true
-}</component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "configuredContexts": [
+    {
+      "name": "minikube",
+      "kubeConfigUrl": "file:///Users/giovannicolognesi/.kube/config",
+      "originalNamespace": "default"
+    }
+  ],
+  "isMigrated": true
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -64,7 +72,11 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app-of-apps" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app-of-apps/templates" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>

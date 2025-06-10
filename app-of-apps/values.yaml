@@ -1,0 +1,5 @@
+argocd:
+  giropops-senhas:
+    enabled: false
+  randomlogger:
+    enabled: false
