@@ -11,10 +11,10 @@ spec:
     path: app-of-apps
     helm:
       parameters:
-        - name: "argocd.girpopsSenhas.enabled"
-          value: false
+        - name: "argocd.giropopsSenhas.enabled"
+          value: "true"
         - name: "argocd.randomLogger.enabled"
-          value: false
+          value: "true"
   destination:
     server: 'https://kubernetes.default.svc'
     namespace: argocd
