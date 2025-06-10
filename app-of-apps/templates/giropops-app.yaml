@@ -9,7 +9,7 @@ spec:
   source:
     helm:
       parameters:
-        - name: "giropopsSenhas.argocd.replicas"
+        - name: "giropopsSenhas.replicas"
           value: "{{ .Values.argocd.giropopsSenhas.replicas}}"
     repoURL: 'https://github.com/giovanni-colognesi/descomplicando-gitops-no-kubernetes-argocd.git'
     targetRevision: main
