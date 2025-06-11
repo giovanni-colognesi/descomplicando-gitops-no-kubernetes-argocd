@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: 'https://github.com/giovanni-colognesi/descomplicando-gitops-no-kubernetes-argocd.git'
     targetRevision: main
-    path: app-of-apps
+    path: apps-of-apps
     helm:
       parameters:
         - name: "argocd.giropopsSenhas.enabled"
