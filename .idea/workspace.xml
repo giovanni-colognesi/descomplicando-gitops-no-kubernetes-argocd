@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="448475a5-423d-43e4-bbce-3fd9cef7640a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/applicationset/manifests/Applicationset.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/grafana.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/applications/grafana.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/grafana.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/giropops-senhas/helm/Chart.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/applicationset/app/giropops-senhas/helm/Chart.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/giropops-senhas/helm/giropops-senhas-0.1.0.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/applicationset/app/giropops-senhas/helm/giropops-senhas-0.1.0.tgz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/giropops-senhas/helm/templates/deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/applicationset/app/giropops-senhas/helm/templates/deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/giropops-senhas/helm/templates/redis-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/applicationset/app/giropops-senhas/helm/templates/redis-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/giropops-senhas/helm/templates/redis-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/applicationset/app/giropops-senhas/helm/templates/redis-service.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/giropops-senhas/helm/templates/service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/applicationset/app/giropops-senhas/helm/templates/service.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/giropops-senhas/helm/values.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/applicationset/app/giropops-senhas/helm/values.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/giropops-senhas/kustomization/app-deployment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/giropops-senhas/kustomization/app-service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/giropops-senhas/kustomization/kustomization.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/giropops-senhas/kustomization/redis-deployment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/giropops-senhas/kustomization/redis-service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grafana/values.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random-logger/helm/Chart.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/applicationset/app/random-logger/helm/Chart.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random-logger/helm/random-logger-0.1.0.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/applicationset/app/random-logger/helm/random-logger-0.1.0.tgz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random-logger/helm/templates/deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/applicationset/app/random-logger/helm/templates/deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random-logger/helm/values.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/applicationset/app/random-logger/helm/values.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +91,8 @@
       <recent name="$PROJECT_DIR$/app-of-apps" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/applicationset/app" />
+      <recent name="$PROJECT_DIR$/applicationset" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/app-of-apps/templates" />
     </key>
