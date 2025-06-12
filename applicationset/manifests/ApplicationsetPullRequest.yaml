@@ -20,7 +20,7 @@ spec:
       project: "default"
       source:
         repoURL: https://github.com/giovanni-colognesi/descomplicando-gitops-no-kubernetes-argocd.git
-        targetRevision: '{{head_sha}}'
+        targetRevision: '{{target_branch}}'
         path: app-of-apps/
       destination:
         server: https://kubernetes.default.svc
