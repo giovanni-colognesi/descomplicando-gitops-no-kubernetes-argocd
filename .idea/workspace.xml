@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="448475a5-423d-43e4-bbce-3fd9cef7640a" name="Changes" comment="" />
+    <list default="true" id="448475a5-423d-43e4-bbce-3fd9cef7640a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applicationset/manifests/ApplicationsetPullRequest.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/applicationset/manifests/ApplicationsetPullRequest.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,12 +32,16 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="feat/day3.1" />
-                    <option name="lastUsedInstant" value="1749728972" />
+                    <option name="branchName" value="feat/day3.2" />
+                    <option name="lastUsedInstant" value="1749729227" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1749728965" />
+                    <option name="lastUsedInstant" value="1749729212" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feat/day3.1" />
+                    <option name="lastUsedInstant" value="1749728972" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="feat/day3" />
@@ -84,7 +91,7 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "git-widget-placeholder": "feat/day3.1",
+    "git-widget-placeholder": "feat/day3.2",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "/Users/giovannicolognesi/GolandProjects/descomplicando-gitops-no-kubernetes-argocd/applicationset/apps/prometheus/helm",
