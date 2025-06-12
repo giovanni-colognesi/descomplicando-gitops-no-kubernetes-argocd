@@ -31,12 +31,16 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="feat/day3" />
-                    <option name="lastUsedInstant" value="1749727300" />
+                    <option name="branchName" value="feat/day3.1" />
+                    <option name="lastUsedInstant" value="1749728972" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1749727299" />
+                    <option name="lastUsedInstant" value="1749728965" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feat/day3" />
+                    <option name="lastUsedInstant" value="1749727300" />
                   </RecentBranch>
                 </list>
               </option>
@@ -82,7 +86,7 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "git-widget-placeholder": "feat/day3",
+    "git-widget-placeholder": "feat/day3.1",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "/Users/giovannicolognesi/GolandProjects/descomplicando-gitops-no-kubernetes-argocd/applicationset/apps/prometheus/helm",
