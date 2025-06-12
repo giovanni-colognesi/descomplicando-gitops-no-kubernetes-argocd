@@ -1,0 +1,7 @@
+{
+  "cluster": {
+    "name": "dev-cluster",
+    "url": "https://dev-cluster.example.com",
+    "namespace": "dev-namespace"
+  }
+}
